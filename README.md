@@ -50,6 +50,19 @@ The aim of this project is to find the optimal locations for EV charging station
 ├── input_files/             # Directory containing any input datasets used (e.g., petrol station locations, distances)
 └── README.md                # This file
 ```
+4. Install the required Python libraries:
+   ```bash
+   pip install pandas
+   pip install seaborn
+   pip install matplotlib
+   pip install windrose
+   pip install glob
+   pip install pandas numpy scikit-learn xgboost lightgbm tensorflow matplotlib seaborn
+   pip install --upgrade tensorflow
+   pip install --upgrade scikit-learn
+   pip install scikeras
+   ```
+5. Run the Jupyter notebook or Python script to perform the analysis and generate the models.
 
 ## Usage
 1. **Run the Python Script:**
@@ -73,4 +86,11 @@ If you’d like to contribute to this project:
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
 3. Submit a pull request with a detailed explanation of the changes.
+
+---
+
+This comprehensive analysis and its findings have been documented and made available on GitHub, providing a valuable resource for researchers, policymakers, and practitioners in the field of urban mobility and bike-sharing systems. The repository includes detailed code, data visualizations, and results, promoting transparency and facilitating further research and collaboration.
+
+Feel free to explore the project on GitHub [here](https://github.com/Kishore2-1/Managing-The-Transition-To-Electric-Vehicles).
+
 
